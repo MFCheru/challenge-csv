@@ -1,6 +1,6 @@
 ## Usage
 
-python challenge_csv [csv_path] [query](optional)
+python challenge_csv.py [csv_path] [query](optional)
 
 Parameters:
 csv_path | Relative path of csv file.
